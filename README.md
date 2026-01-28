@@ -1,15 +1,15 @@
-# ⛅ Weather App (Responsive)
+# Weather App (Responsive)
 
-## 📌 Description
+## Description
 A simple weather application built with HTML, CSS, and JavaScript. It uses the **OpenWeatherMap API** to fetch real-time weather data based on city input. Users can search for a location and instantly see details like temperature, weather conditions, and icons. The layout is responsive and works on both desktop and mobile.
 
-## 🛠 Tech Stack
+## Tech Stack
 - HTML
 - CSS
 - JavaScript
 - OpenWeatherMap API
 
-## 🚀 How to Use
+## How to Use
 1. **Download the project:**
    - Click the green `Code` button and select `Download ZIP`, then extract it.
    - **OR** run this command:
